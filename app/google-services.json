@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79114662713",
+    "project_id": "hospital-a8aa5",
+    "storage_bucket": "hospital-a8aa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79114662713:android:61f0c37ddb298af9862ee8",
+        "android_client_info": {
+          "package_name": "com.example.hopistalfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg_imyiBhX3T0evXwxcvzAX0M58a4SZPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
